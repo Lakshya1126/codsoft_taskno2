@@ -119,3 +119,9 @@ For each empty cell, the AI tries a move, recursively evaluates the resulting bo
 ## License
 
 This project is open for educational use. Add a license of your choice (e.g., MIT) if you plan to distribute it.
+<div align="center">
+
+Developed by Lakshya Kansal
+
+</div>
+
